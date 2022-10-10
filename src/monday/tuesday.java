@@ -8,13 +8,14 @@ package monday;
  *
  * @author اكرم
  */
-public class Monday {
+public class tuesday {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("Hello everybody");// TODO code application logic here
+        System.out.println("السلام عليكم");
     }
     
 }

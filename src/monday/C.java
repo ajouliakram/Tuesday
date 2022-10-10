@@ -8,9 +8,6 @@ package monday;
  *
  * @author اكرم
  */
-public class B {
-    public void m(){
-        
-    }
+public class C {
     
 }
